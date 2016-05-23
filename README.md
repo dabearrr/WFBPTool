@@ -1,2 +1,0 @@
-# WFBPTool
-Warframe Alert Checker
